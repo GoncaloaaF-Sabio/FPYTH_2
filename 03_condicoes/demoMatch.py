@@ -1,4 +1,4 @@
-from unittest import case
+
 
 # match / case
 
@@ -34,4 +34,4 @@ match mes:
         print("invalido")
 
 
-# criar uma match case para os dias da semana 
+# criar uma match case para os dias da semana
