@@ -1,0 +1,3 @@
+msg2("Gonçalo", 2026)
+msg2(nome="Gonçalo", ano=2026)
+msg2("Gonçalo", ano=2026)
